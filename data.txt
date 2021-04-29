@@ -1,0 +1,560 @@
+1
+chips fuego
+12
+papas
+7
+5
+10
+2
+chile jalapeño
+12
+chile
+15
+3
+6
+3
+chips jalapeño
+12
+papas
+7
+5
+10
+4
+chips lime
+12
+papas
+7
+5
+10
+5
+chips chile lime
+12
+papas
+7
+5
+10
+6
+chips sal de mar
+12
+papas
+9
+9
+10
+7
+chips adobadas
+7
+papas
+9
+5
+10
+8
+Takis original
+10
+papas
+11
+10
+13
+9
+Takis salsa verde
+10
+papas
+11
+10
+13
+10
+Takis fuego
+10
+papas
+11
+10
+13
+11
+Takis guacamole
+10
+papas
+11
+10
+13
+12
+Takis zombie
+10
+papas
+11
+10
+13
+13
+Takis nitro
+10
+papas
+11
+10
+15
+14
+Takis noturos
+10
+papas
+11
+10
+13
+15
+chile chilaca
+8
+chile
+10
+20
+25
+16
+chile del arbol
+8
+chile
+10
+20
+25
+17
+chile asado
+8
+chile
+10
+20
+25
+18
+manzana roja
+8
+fruta
+25
+20
+30
+19
+manzana dorada
+8
+fruta
+25
+20
+30
+20
+naraja
+12
+fruta
+25
+20
+30
+21
+sandia
+15
+fruta
+25
+20
+30
+22
+uva
+8
+fruta
+25
+20
+30
+23
+chips fuego
+12
+papas
+7
+5
+10
+24
+chile jalapeño
+12
+chile
+15
+3
+6
+25
+chips jalapeño
+12
+papas
+7
+5
+10
+26
+chips lime
+12
+papas
+7
+5
+10
+27
+chips chile lime
+12
+papas
+7
+5
+10
+28
+chips sal de mar
+12
+papas
+9
+9
+10
+29
+chips adobadas
+7
+papas
+9
+5
+10
+30
+Takis original
+10
+papas
+11
+10
+13
+31
+Takis salsa verde
+10
+papas
+11
+10
+13
+32
+Takis fuego
+10
+papas
+11
+10
+13
+33
+Takis guacamole
+10
+papas
+11
+10
+13
+34
+Takis zombie
+10
+papas
+11
+10
+13
+35
+Takis nitro
+10
+papas
+11
+10
+15
+36
+Takis noturos
+10
+papas
+11
+10
+13
+37
+chile chilaca
+8
+chile
+10
+20
+25
+38
+chile del arbol
+8
+chile
+10
+20
+25
+39
+chile asado
+8
+chile
+10
+20
+25
+40
+manzana roja
+8
+fruta
+25
+20
+30
+41
+manzana dorada
+8
+fruta
+25
+20
+30
+42
+naraja
+12
+fruta
+25
+20
+30
+43
+sandia
+15
+fruta
+25
+20
+30
+44
+uva
+8
+fruta
+25
+20
+30
+45
+chips fuego
+12
+papas
+7
+5
+10
+46
+chile jalapeño
+12
+chile
+15
+3
+6
+47
+chips jalapeño
+12
+papas
+7
+5
+10
+48
+chips lime
+12
+papas
+7
+5
+10
+49
+chips chile lime
+12
+papas
+7
+5
+10
+50
+chips sal de mar
+12
+papas
+9
+9
+10
+51
+chips adobadas
+7
+papas
+9
+5
+10
+52
+Takis original
+10
+papas
+11
+10
+13
+53
+Takis salsa verde
+10
+papas
+11
+10
+13
+54
+Takis fuego
+10
+papas
+11
+10
+13
+55
+Takis guacamole
+10
+papas
+11
+10
+13
+56
+Takis zombie
+10
+papas
+11
+10
+13
+57
+Takis nitro
+10
+papas
+11
+10
+15
+59
+Takis noturos
+10
+papas
+11
+10
+13
+60
+chile chilaca
+8
+chile
+10
+20
+25
+61
+chile del arbol
+8
+chile
+10
+20
+25
+62
+chile asado
+8
+chile
+10
+20
+25
+63
+manzana roja
+8
+fruta
+25
+20
+30
+64
+manzana dorada
+8
+fruta
+25
+20
+30
+65
+naraja
+12
+fruta
+25
+20
+30
+66
+sandia
+15
+fruta
+25
+20
+30
+67
+uva
+8
+fruta
+25
+20
+30
+68
+Takis guacamole
+10
+papas
+11
+10
+13
+69
+Takis zombie
+10
+papas
+11
+10
+13
+70
+Takis nitro
+10
+papas
+11
+10
+15
+71
+Takis noturos
+10
+papas
+11
+10
+13
+72
+chile chilaca
+8
+chile
+10
+20
+25
+73
+chile del arbol
+8
+chile
+10
+20
+25
+74
+chile asado
+8
+chile
+10
+20
+25
+75
+manzana roja
+8
+fruta
+25
+20
+30
+76
+manzana dorada
+8
+fruta
+25
+20
+30
+77
+naraja
+12
+fruta
+25
+20
+30
+78
+platos
+26
+otro
+10
+5
+15
+79
+vasos
+10
+otro
+10
+5
+15
+80
+comal
+70
+otro
+10
+5
+15
+80
+jarra
+26
+otro
+10
+5
+15
